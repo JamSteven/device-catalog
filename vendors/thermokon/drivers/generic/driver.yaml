@@ -6,7 +6,7 @@ description: This generic driver decodes most Thermokon device payloads.
 # This id will be used to construct the id of the driver (Should be in lowercase, no special characters, maximum 8 characters)
 producerId: thrmkn
 # Email of the developer
-developerEmail: marco.dietz@thermokon.de
+developerEmail: marco.dietz@thermokon.de and steven.jam@thermokon.fr
 # In case of a driver per model: `<vendorId>:<modelName>:<modelVersion>`
 # In case of a driver for multiples model: `<vendorId>:generic:<genericVersion>`
 # Needed for linking the model with a specific driver -> must be the same one used in model.yaml in the corresponding model
